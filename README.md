@@ -1,6 +1,6 @@
 # CleanVid 다운로드
 
-**현재 버전: v0.9.191** (게시: 2026-11-10 02:10 KST) ·
+**현재 버전: v0.9.192** (게시: 2026-11-10 06:51 KST) ·
 [전체 릴리스 목록](https://github.com/cineraria01/cleanvid_app/releases)
 
 ## 바로 받기 — 항상 최신 버전으로 연결됩니다
